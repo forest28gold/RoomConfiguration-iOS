@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[RCMainViewController collectionView:cellForItemAtIndexPath:]:RCMainViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_cell.frame.size.width">
+            </PersistentString>
+            <PersistentString
+               value = "_m_view.frame.size.width">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[RCMainViewController onSelectCaptureScreen:]:RCMainViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "viewImage.size">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

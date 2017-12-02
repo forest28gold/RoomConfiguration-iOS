@@ -1,0 +1,1 @@
+../../../PanoramaGL/PanoramaGL/PLObjectProtected.h

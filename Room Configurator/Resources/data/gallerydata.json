@@ -1,0 +1,293 @@
+{
+    "code": 200,
+    "data": {
+        "categories": [
+            {
+                "name": "Top Categories",
+                "subcategories": [
+                    {
+                        "icon_url": "http://img02.liwushuo.com/image/150615/urgs9vy8a.png-pw144",
+                        "image": "room01",
+                        "name": "Smart Device"
+                    },
+                    {
+                        "icon_url": "http://img01.liwushuo.com/image/150615/d4dhjw1we.png-pw144",
+                        "image": "room02",
+                        "name": "Flower cake"
+                    },
+                    {
+                        "icon_url": "http://img02.liwushuo.com/image/150626/itxjlg4jh.png-pw144",
+                        "image": "room03",
+                        "name": "Book"
+                    },
+                    {
+                        "icon_url": "http://img01.liwushuo.com/image/150615/12vqbzrkq.png-pw144",
+                        "image": "room01",
+                        "name": "Model Puzzle"
+                    },
+                    {
+                        "icon_url": "http://img03.liwushuo.com/image/150312/xdjtcaanm.png-pw144",
+                        "image": "room02",
+                        "name": "Plush Doll"
+                    },
+                    {
+                        "icon_url": "http://img01.liwushuo.com/image/150615/dsu66u5k2.png-pw144",
+                        "image": "room03",
+                        "name": "Animation / Star Around"
+                    },
+                    {
+                        "icon_url": "http://img02.liwushuo.com/image/150615/v65bdnets.png-pw144",
+                        "image": "room01",
+                        "name": "Creative Gifts"
+                    }
+                ]
+            },
+            {
+                "name": "Personalized Accessories",
+                "subcategories": [
+                    {
+                        "icon_url": "http://img03.liwushuo.com/image/150615/80mkxagby.png-pw144",
+                        "image": "room01",
+                        "name": "Jewelry"
+                    },
+                    {
+                        "icon_url": "http://img03.liwushuo.com/image/150615/vprcl0vym.png-pw144",
+                        "image": "room02",
+                        "name": "Watch"
+                    },
+                    {
+                        "icon_url": "http://img01.liwushuo.com/image/150615/w0h2yoa72.png-pw144",
+                        "image": "room03",
+                        "name": "Hat"
+                    },
+                    {
+                        "icon_url": "http://img01.liwushuo.com/image/150615/9k7a3umu1.png-pw144",
+                        "image": "room01",
+                        "name": "Frame"
+                    },
+                    {
+                        "icon_url": "http://img02.liwushuo.com/image/150615/u7txf6xvn.png-pw144",
+                        "image": "room02",
+                        "name": "Hair Ornaments"
+                    },
+                    {
+                        "icon_url": "http://img02.liwushuo.com/image/150615/u8pq01q9t.png-pw144",
+                        "image": "room03",
+                        "name": "Earring"
+                    },
+                    {
+                        "icon_url": "http://img01.liwushuo.com/image/150615/0b8w4xhis.png-pw144",
+                        "image": "room01",
+                        "name": "Gloves"
+                    },
+                    {
+                        "icon_url": "http://img02.liwushuo.com/image/150615/ijgrwvrn5.png-pw144",
+                        "image": "room02",
+                        "name": "Scarf / Mask"
+                    },
+                    {
+                        "icon_url": "http://img03.liwushuo.com/image/150615/mkhkh14j8.png-pw144",
+                        "image": "room03",
+                        "name": "Necklace"
+                    },
+                    {
+                        "icon_url": "http://img03.liwushuo.com/image/150615/0yw7qk140.png-pw144",
+                        "image": "room01",
+                        "name": "Tie / Belt"
+                    },
+                    {
+                        "icon_url": "http://img03.liwushuo.com/image/150615/0m85d9pts.png-pw144",
+                        "image": "room02",
+                        "name": "Sock"
+                    }
+                ]
+            },
+            {
+                "name": "Warm Home",
+                "subcategories": [
+                    {
+                        "icon_url": "http://img02.liwushuo.com/image/150615/bj9ch14r1.png-pw144",
+                        "image": "room01",
+                        "name": "Pillow / Cushion"
+                    },
+                    {
+                        "icon_url": "http://img03.liwushuo.com/image/150615/kijh56ebm.png-pw144",
+                        "image": "room03",
+                        "name": "Decorative Paintings"
+                    },
+                    {
+                        "icon_url": "http://img03.liwushuo.com/image/150615/78a2812io.png-pw144",
+                        "image": "room01",
+                        "name": "Watches and clocks Decoration"
+                    },
+                    {
+                        "icon_url": "http://img03.liwushuo.com/image/150615/hjyqt8u8j.png-pw144",
+                        "image": "room02",
+                        "name": "Aromatherapy supplies"
+                    },
+                    {
+                        "icon_url": "http://img02.liwushuo.com/image/150615/9mdsiq7sa.png-pw144",
+                        "image": "room01",
+                        "name": "Storage and finishing"
+                    },
+                    {
+                        "icon_url": "http://img03.liwushuo.com/image/150615/rjxihwrxq.png-pw144",
+                        "image": "room03",
+                        "name": "Life artifact"
+                    },
+                    {
+                        "icon_url": "http://img02.liwushuo.com/image/150615/1mlvwwz03.png-pw144",
+                        "image": "room01",
+                        "name": "Life appliances"
+                    },
+                    {
+                        "icon_url": "http://img01.liwushuo.com/image/150615/scggy105e.png-pw144",
+                        "image": "room02",
+                        "name": "umbrella"
+                    },
+                    {
+                        "icon_url": "http://img02.liwushuo.com/image/150615/56t6d6ca8.png-pw144",
+                        "image": "room03",
+                        "name": "Home textile"
+                    },
+                    {
+                        "icon_url": "http://img02.liwushuo.com/image/150615/7l6ljnnbq.png-pw144",
+                        "image": "room01",
+                        "name": "Pet supplies"
+                    },
+                    {
+                        "icon_url": "http://img01.liwushuo.com/image/150615/az2zg2gxm.png-pw144",
+                        "image": "room03",
+                        "name": "Handkerchiefs / towels"
+                    }
+                ]
+            },
+            {
+                "name": "Delicious kitchen",
+                "subcategories": [
+                    {
+                        "icon_url": "http://img02.liwushuo.com/image/150615/2ep8pn54p.png-pw144",
+                        "image": "room02",
+                        "name": "Insulation Cup / Lunch Box"
+                    },
+                    {
+                        "icon_url": "http://img03.liwushuo.com/image/150615/9twbl537b.png-pw144",
+                        "image": "room01",
+                        "name": "cup"
+                    },
+                    {
+                        "icon_url": "http://img01.liwushuo.com/image/150615/zdve42knm.png-pw144",
+                        "image": "room03",
+                        "name": "tableware"
+                    },
+                    {
+                        "icon_url": "http://img01.liwushuo.com/image/150615/o0rddf4if.png-pw144",
+                        "image": "room01",
+                        "name": "Eat artifacts"
+                    },
+                    {
+                        "icon_url": "http://img01.liwushuo.com/image/150615/x8qnoc2js.png-pw144",
+                        "image": "room03",
+                        "name": "Kitchenware"
+                    },
+                    {
+                        "icon_url": "http://img01.liwushuo.com/image/150615/wp808rzwm.png-pw144",
+                        "image": "room02",
+                        "name": "Baking props"
+                    },
+                    {
+                        "icon_url": "http://img01.liwushuo.com/image/150615/vog9lruq6.png-pw144",
+                        "image": "room01",
+                        "name": "Wine and tea"
+                    }
+                ]
+            },
+            {
+                "name": "Delicious gifts",
+                "subcategories": [
+                    {
+                        "icon_url": "http://img02.liwushuo.com/image/150615/1ivpiljyw.png-pw144",
+                        "image": "room03",
+                        "name": "tea"
+                    },
+                    {
+                        "icon_url": "http://img03.liwushuo.com/image/150615/ujwwahqmf.png-pw144",
+                        "image": "room01",
+                        "name": "Instant snack / ready to eat"
+                    },
+                    {
+                        "icon_url": "http://img03.liwushuo.com/image/150626/dzrf65l0u.png-pw144",
+                        "image": "room02",
+                        "name": "Healthy meal replacement"
+                    },
+                    {
+                        "icon_url": "http://img02.liwushuo.com/image/150312/6jcr63wt9.png-pw144",
+                        "image": "room01",
+                        "name": "Candy cakes"
+                    },
+                    {
+                        "icon_url": "http://img01.liwushuo.com/image/150312/ouiup1wr8.png-pw144",
+                        "image": "room02",
+                        "name": "Cookies"
+                    },
+                    {
+                        "icon_url": "http://img02.liwushuo.com/image/150312/ct3oe3mcs.png-pw144",
+                        "image": "room03",
+                        "name": "chocolate"
+                    },
+                    {
+                        "icon_url": "http://img01.liwushuo.com/image/150312/y3x76old0.png-pw144",
+                        "image": "room01",
+                        "name": "Expanded food"
+                    },
+                    {
+                        "icon_url": "http://img02.liwushuo.com/image/150312/0uw6m16bf.png-pw144",
+                        "image": "room02",
+                        "name": "Coffee / tea"
+                    },
+                    {
+                        "icon_url": "http://img01.liwushuo.com/image/150626/f3id397qy.png-pw144",
+                        "image": "room03",
+                        "name": "liqueur"
+                    },
+                    {
+                        "icon_url": "http://img01.liwushuo.com/image/150312/s80qg0agp.png-pw144",
+                        "image": "room01",
+                        "name": "nut"
+                    },
+                    {
+                        "icon_url": "http://img02.liwushuo.com/image/150312/asuck0uit.png-pw144",
+                        "image": "room02",
+                        "name": "Dried fruit / jam"
+                    }
+                ]
+            },
+            {
+                "name": "Digital small things",
+                "subcategories": [
+                    {
+                        "icon_url": "http://img01.liwushuo.com/image/150615/ptgedps6p.png-pw144",
+                        "image": "room01",
+                        "name": "Computer Peripherals"
+                    },
+                    {
+                        "icon_url": "http://img01.liwushuo.com/image/150615/v3i1dg38w.png-pw144",
+                        "image": "room02",
+                        "name": "Headphones / stereo"
+                    },
+                    {
+                        "icon_url": "http://img01.liwushuo.com/image/150615/dhsjxciof.png-pw144",
+                        "image": "room03",
+                        "name": "Photography around"
+                    },
+                    {
+                        "icon_url": "http://img03.liwushuo.com/image/150615/zkpa4vgxn.png-pw144",
+                        "image": "room01",
+                        "name": "phone case"
+                    }
+                ]
+            }
+        ]
+    },
+    "message": "OK"
+}
